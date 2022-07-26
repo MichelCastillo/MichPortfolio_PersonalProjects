@@ -1,0 +1,31 @@
+Keywords usadas:Bulldog, bulldogs, bulls, franchies, pugs, veterinaria, alimentación, perros, perruno
+    Joel, mascota, contacto, emergencia, visítanos, raza, spikes, animales.
+
+Titulos agregados:
+    <h2><b>< Welcome to I ♥ Bulldogs /></b></h2>
+    <h1 class="joel-life-header">
+      <span>J</span><span>O</span><span>E</span><span>L</span><span>'</span><span>S</span> <span>
+        <span>L</span><span>I</span><span>F</span><span>E</span>
+    </h1>
+    <h5>Hola ! Mi nombre es Joel :)</h5>
+    <h3 class="h3_main">Hola ! Mi nombre es Joel !</h3>
+    <h3 class="h3_main">Aquí te dejo un video de mi casa :)</h3>
+    <h4 class="title"><a href="">Morena Castillo</a></h4>
+    <h4 class="title"><a href="">Balboa Castillo</a></h4>
+    <h4 class="title"><a href="">Apolo Castillo</a></h4>
+    <h2 class="h2_main main_title">Galería de fotos</h2>
+    <h2 class="pulse_efect">Curiosidades perrunas</h2>
+    <h3>Siguenos en nuestras redes sociales!</h3>
+    <h4>Un apodo con pocas pulgas</h4>
+    <h4>Para que dejar de correr y saltar ?!</h4>
+    <h4>Atrás, intruso !</h4>
+    <h2>Nuestros centros de atención veterinarios</h2>
+
+Metaetiquetas DECRIPTIONS agregadas:
+  <meta name="description" content="Página web orientada a perros de raza Bulldogs, Bulls o Spikes" />
+  <meta name="description" content="Página web orientada a perros de raza Bulldogs, Bulls o Spikes pero esta vez, cómo se relacionan con otra raza llamada Pugs" /> 
+  <meta name="description=" content="Página web orientada a perros de raza Bulldogs, Bulls o Spikes pero esta vez, cómo estos se relacionan con otra subraza, llamada Bulldog francés" /> 
+  <meta name="description=" content="Página web orientada a perros de raza Bulldogs, Bulls o Spikes donde se podra consultar dudas y ponerse en contacto con veterinarios y especialistas caninos de todo el mundo" />
+  <meta name="description=" content="Página web orientada a perros de raza Bulldogs, Bulls o Spikes donde se especifican características, alimentación y datos curiosos de estos perros" /> 
+
+
